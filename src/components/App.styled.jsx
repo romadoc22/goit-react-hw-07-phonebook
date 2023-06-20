@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-import img from '../images/book.png';
+import img from '../images/pngegg.png';
 
 export const Section = styled.section`
   width: 100vw;
